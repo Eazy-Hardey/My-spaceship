@@ -1,19 +1,21 @@
 # Welcome to My Spaceship
 ***
 
-## Task
-TODO - What is the problem? And where is the challenge?
-
+## Task 
+designing a simulator for  spaceships. 
+This simulator creates a virtual “space” and keeps track of the basic movements and direction of a given ship.
 ## Description
-TODO - How have you solved the problem?
+create a function that takes in a flight path of a rocket ship as a string of letters and returns the following format:
+"{x: X, y: Y, direction: 'DIRECTION'}"
+X,Y represent the ending coordinates of your ship and direction represents its final direction.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+The program does not require any form of Installationat all as its a simple code 
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
+create a function that takes in a flight path of a rocket ship as a string of letters and returns the following format:
+"{x: X, y: Y, direction: 'DIRECTION'}"
+X,Y represent the ending coordinates of your ship and direction represents its final direction.
 ```
 
 ### The Core Team
